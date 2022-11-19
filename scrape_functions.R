@@ -33,9 +33,3 @@ scrape_function <- function(temporada = 1992){
 
 scrape_function(temporada = 2022)
 
-
-
-
-#DEMOSTRACION BOW
-
-link <- "https://fbref.com/en/comps/9/schedule/Premier-League-Scores-and-Fixtures"
