@@ -1,7 +1,7 @@
 Integrantes del Grupo
 
 Douglas Hernández
-Ernesto Míguez
+| Ernesto Míguez
 
 Descripción de los archivos del repositorio.
 
