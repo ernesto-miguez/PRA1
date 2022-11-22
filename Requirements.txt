@@ -1,0 +1,8 @@
+rvest 
+tidyverse
+stringi 
+jsonlite
+janitor
+writexl
+polite
+httr
